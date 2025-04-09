@@ -3,3 +3,9 @@ langchain-community
 langchain_ollama
 langchain-tavily
 langgraph
+chromadb
+langchain-huggingface
+torch
+sentence-transformers
+huggingface_hub[hf_xet]
+accelerate
