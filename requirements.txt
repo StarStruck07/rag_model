@@ -9,3 +9,4 @@ torch
 sentence-transformers
 huggingface_hub[hf_xet]
 accelerate
+tavily-python
